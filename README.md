@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing and Data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me for the time being via inst same username
+- 📫 How to reach me for the time being via Linkedin : Asmaa Soumoun
 - 😄 Pronouns: she
 - ⚡ Fun fact: Still new to Github 
 
